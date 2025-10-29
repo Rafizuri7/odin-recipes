@@ -1,0 +1,1 @@
+{"rule":"ALLOW_TO","sentence":"^\\QAllow to stand until crumbs absorb cream, about 10 mintues</p></li> </ol> </body> </html>\\E$"}
