@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(235, 238, 240);
+    
+}
+
+h1,h2,h3,h4 {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(221, 186, 140);
+    margin-bottom: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
